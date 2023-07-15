@@ -1,3 +1,7 @@
+![Untitled](https://github.com/xminao/Gitlet/raw/master/imgs/gitlet-logo.png)
+
+
+
 # Gitlet 开发日志
 
 模仿Git使用Java开发的版本控制系统(UCBerkelely CS61B Spring21 Project2)
